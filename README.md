@@ -73,45 +73,45 @@ with.</li>
 
 # Reference
 <ol>
-  <li>[1] R. Gopalan and B. Dariush, “Towards a Vision Based Hand Gesture Interface for Robotic Grasping”, The IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009, St. Louis, USA, pp. 1452-1459.</li>
+  <li>R. Gopalan and B. Dariush, “Towards a Vision Based Hand Gesture Interface for Robotic Grasping”, The IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009, St. Louis, USA, pp. 1452-1459.</li>
 
-<li>[2] T. Kapuscinski and M. Wysocki, “Hand Gesture Recognition for Man-Machine interaction”, Second Workshop on Robot Motion and Control, October 18-20, 2001, pp. 91-96.</li>
+<li>T. Kapuscinski and M. Wysocki, “Hand Gesture Recognition for Man-Machine interaction”, Second Workshop on Robot Motion and Control, October 18-20, 2001, pp. 91-96.</li>
 
-<li>[3] D. Y. Huang, W. C. Hu, and S. H. Chang, “Vision-based Hand Gesture Recognition Using PCA+Gabor Filters and SVM”, IEEE Fifth International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2009, pp. 1-4.</li>
+<li>D. Y. Huang, W. C. Hu, and S. H. Chang, “Vision-based Hand Gesture Recognition Using PCA+Gabor Filters and SVM”, IEEE Fifth International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2009, pp. 1-4.</li>
 
-<li>[4] C. Yu, X. Wang, H. Huang, J. Shen, and K. Wu, “Vision-Based Hand Gesture Recognition Using Combinational Features”, IEEE Sixth International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2010, pp. 543-546.</li>
+<li>C. Yu, X. Wang, H. Huang, J. Shen, and K. Wu, “Vision-Based Hand Gesture Recognition Using Combinational Features”, IEEE Sixth International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2010, pp. 543-546.</li>
 
-<li>[5] J. L. Raheja, K. Das, and A. Chaudhury, “An Efficient Real Time Method of Fingertip Detection”, International Conference on Trends in Industrial Measurements and automation (TIMA), 2011, pp. 447-450.</li>
+<li>J. L. Raheja, K. Das, and A. Chaudhury, “An Efficient Real Time Method of Fingertip Detection”, International Conference on Trends in Industrial Measurements and automation (TIMA), 2011, pp. 447-450.</li>
 
-<li>[6] Manigandan M. and I. M Jackin, “Wireless Vision based Mobile Robot control using Hand Gesture Recognition through Perceptual Color Space”, IEEE International Conference on Advances in Computer Engineering, 2010, pp. 95-99.</li>
+<li>Manigandan M. and I. M Jackin, “Wireless Vision based Mobile Robot control using Hand Gesture Recognition through Perceptual Color Space”, IEEE International Conference on Advances in Computer Engineering, 2010, pp. 95-99.</li>
 
-<li>[7] A. S. Ghotkar, R. Khatal, S. Khupase, S. Asati, and M. Hadap, “Hand Gesture Recognition for Indian Sign Language”, IEEE International Conference on Computer Communication and Informatics (ICCCI), Jan. 10-12, 2012, Coimbatore, India.</li>
+<li>A. S. Ghotkar, R. Khatal, S. Khupase, S. Asati, and M. Hadap, “Hand Gesture Recognition for Indian Sign Language”, IEEE International Conference on Computer Communication and Informatics (ICCCI), Jan. 10-12, 2012, Coimbatore, India.</li>
 
-<li>[8] I. G. Incertis, J. G. G. Bermejo, and E.Z. Casanova, “Hand Gesture Recognition for Deaf People Interfacing”, The 18th International Conference on Pattern Recognition (ICPR), 2006.</li>
+<li>I. G. Incertis, J. G. G. Bermejo, and E.Z. Casanova, “Hand Gesture Recognition for Deaf People Interfacing”, The 18th International Conference on Pattern Recognition (ICPR), 2006.</li>
 
-<li>[9] J. Rekha, J. Bhattacharya, and S. Majumder, “Shape, Texture and Local Movement Hand Gesture Features for Indian Sign Language Recognition”, IEEE, 2011,pp. 30-35.</li>
+<li>J. Rekha, J. Bhattacharya, and S. Majumder, “Shape, Texture and Local Movement Hand Gesture Features for Indian Sign Language Recognition”, IEEE, 2011,pp. 30-35.</li>
 
-<li>[10] L. K. Lee, S. Y. An, and S. Y. Oh, “Robust Fingertip Extraction with Improved Skin Color Segmentation for Finger Gesture Recognition in Human-Robot Interaction”, WCCI 2012 IEEE World Congress on Computational Intelligence, June, 10-15, 2012, Brisbane, Australia.</li>
+<li>L. K. Lee, S. Y. An, and S. Y. Oh, “Robust Fingertip Extraction with Improved Skin Color Segmentation for Finger Gesture Recognition in Human-Robot Interaction”, WCCI 2012 IEEE World Congress on Computational Intelligence, June, 10-15, 2012, Brisbane, Australia.</li>
 
-<li>[11] S. K. Yewale and P. K. Bharne, “Hand Gesture Recognition Using Different Algorithms Based on Artificial Neural Network”, IEEE, 2011, pp. 287-292.</li>
+<li>S. K. Yewale and P. K. Bharne, “Hand Gesture Recognition Using Different Algorithms Based on Artificial Neural Network”, IEEE, 2011, pp. 287-292.</li>
 
-<li>[12] Y. Fang, K. Wang, J. Cheng, and H. Lu, “A Real-Time Hand Gesture Recognition Method”, IEEE ICME, 2007, pp. 995-998.</li>
+<li>Y. Fang, K. Wang, J. Cheng, and H. Lu, “A Real-Time Hand Gesture Recognition Method”, IEEE ICME, 2007, pp. 995-998.</li>
 
-<li>[13] S. Saengsri, V. Niennattrakul, and C.A. Ratanamahatana, “TFRS: Thai Finger-Spelling Sign Language Recognition System”, IEEE, 2012, pp. 457-462.</li>
+<li>S. Saengsri, V. Niennattrakul, and C.A. Ratanamahatana, “TFRS: Thai Finger-Spelling Sign Language Recognition System”, IEEE, 2012, pp. 457-462.</li>
 
-<li>[14] J. H. Kim, N. D. Thang, and T. S. Kim, “3-D Hand Motion Tracking and Gesture Recognition Using a Data Glove”, IEEE International Symposium on Industrial Electronics (ISIE), July 5-8, 2009, Seoul Olympic Parktel, Seoul , Korea, pp. 1013-1018.</li>
+<li>J. H. Kim, N. D. Thang, and T. S. Kim, “3-D Hand Motion Tracking and Gesture Recognition Using a Data Glove”, IEEE International Symposium on Industrial Electronics (ISIE), July 5-8, 2009, Seoul Olympic Parktel, Seoul , Korea, pp. 1013-1018.</li>
 
-<li>[15] J. Weissmann and R. Salomon, “Gesture Recognition for Virtual Reality Applications Using Data Gloves and Neural Networks”, IEEE, 1999, pp. 2043-2046.</li>
+<li>J. Weissmann and R. Salomon, “Gesture Recognition for Virtual Reality Applications Using Data Gloves and Neural Networks”, IEEE, 1999, pp. 2043-2046.</li>
 
-<li>[16] W. W. Kong and S. Ranganath, “Sign Language Phoneme Transcription with PCA-based Representation”, The 9th International Conference on Information and Communications Security(ICICS), 2007, China.</li>
+<li>W. W. Kong and S. Ranganath, “Sign Language Phoneme Transcription with PCA-based Representation”, The 9th International Conference on Information and Communications Security(ICICS), 2007, China.</li>
 
-<li>[17] M. V. Lamar, S. Bhuiyan, and A. Iwata, “Hand Alphabet Recognition Using Morphological PCA and Neural Networks”, IEEE, 1999, pp. 2839-2844.</li>
+<li>M. V. Lamar, S. Bhuiyan, and A. Iwata, “Hand Alphabet Recognition Using Morphological PCA and Neural Networks”, IEEE, 1999, pp. 2839-2844.</li>
 
-<li>[18] O. B. Henia and S. Bouakaz, “3D Hand Model Animation with a New Data-Driven Method”, Workshop on Digital Media and Digital Content Management (IEEE Computer Society), 2011, pp. 72-76.</li>
+<li>O. B. Henia and S. Bouakaz, “3D Hand Model Animation with a New Data-Driven Method”, Workshop on Digital Media and Digital Content Management (IEEE Computer Society), 2011, pp. 72-76.</li>
 
-<li>[19] M. Pahlevanzadeh, M. Vafadoost, and M. Shahnazi, “Sign Language Recognition”, IEEE, 2007.</li>
+<li>M. Pahlevanzadeh, M. Vafadoost, and M. Shahnazi, “Sign Language Recognition”, IEEE, 2007.</li>
 
-<li>[20] J. B. Kim, K. H. Park, W. C. Bang, and Z. Z. Bien, “Continuous Gesture Recognition System for Korean Sign Language based on Fuzzy Logic and Hidden Markov Model”, IEEE, 2002, pp. 1574-1579.</li>
+<li>J. B. Kim, K. H. Park, W. C. Bang, and Z. Z. Bien, “Continuous Gesture Recognition System for Korean Sign Language based on Fuzzy Logic and Hidden Markov Model”, IEEE, 2002, pp. 1574-1579.</li>
 
 </ol>
 
