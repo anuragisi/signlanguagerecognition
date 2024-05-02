@@ -8,7 +8,7 @@ Let us assume that you have installed opencv 3.0 and python 2.7 correctly.
 Then run it as simple as running a python program.
 
 If any error happens let us know,then we will feel happy to help you.
-
+<br>
 # Gesture Recognition
 <p>Gesture recognition is a topic in computer science and language technology with the goal of interpreting human gesture via mathematical algorithms.</p>
 
