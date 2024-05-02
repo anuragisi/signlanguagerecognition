@@ -1,4 +1,7 @@
-# signlanguagerecognition
+# Sign Language Recognition
+
+This documentation has been updated after a long hiatus, so anticipate that the literature and versions mentioned herein are likely outdated or obsolete. The author conducted this research as part of a B.Tech dissertation from January 2016 to June 2016. Some of the records were subsequently documented and published here.
+
 This is the latest working code of the sign language recognition system which enables us to recognise the symbols as characters easily as we have done researched over the algorithms to try to get the best results in a simple and best way.We have used python 2.7 with OpenCV 3.0 Library.
 
 Let us assume that you have installed opencv 3.0 and python 2.7 correctly.
