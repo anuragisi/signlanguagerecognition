@@ -58,14 +58,14 @@ If any error happens let us know,then we will feel happy to help you.
     <samp><img width="530" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/557020b0-32f8-46cc-8c16-c44eccdfc5da"></samp>
   </ul>
   </li>
-  <li>Extract the largest contour<samp><img width="253" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/db1b8a96-a2f5-42f8-88a7-873c69cab662">
-</samp></li>
-  <li>Detect hand gesture by finding the defects in a hull<samp><img width="232" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/c9b0bf3e-ea3d-4430-aa0b-f893e0b3e60b">
-</samp></li>
-  <li>Contour shape matching algo run<samp><img width="544" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/d3fae5a8-b0fd-4c0b-83d1-f6f66a207473">
-</samp></li>
-  <li>Printing the Alphabet <samp><img width="463" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/49f263a7-696d-4ee1-a604-044043450323">
-</samp></li>
+  <li>Extract the largest contour</li></li><samp><img width="253" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/db1b8a96-a2f5-42f8-88a7-873c69cab662">
+</samp>
+  <li>Detect hand gesture by finding the defects in a hull</li><samp><img width="232" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/c9b0bf3e-ea3d-4430-aa0b-f893e0b3e60b">
+</samp>
+  <li>Contour shape matching algo run</li><samp><img width="544" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/d3fae5a8-b0fd-4c0b-83d1-f6f66a207473">
+</samp>
+  <li>Printing the Alphabet</li><samp><img width="463" alt="image" src="https://github.com/anuragprasad95/signlanguagerecognition/assets/3609255/49f263a7-696d-4ee1-a604-044043450323">
+</samp>
 </ul>
 
 # Conclusion
