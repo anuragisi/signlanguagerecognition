@@ -72,7 +72,7 @@ with.</li>
 </ul>
 
 # Reference
-<ul>
+<ol>
   <li>[1] R. Gopalan and B. Dariush, “Towards a Vision Based Hand Gesture Interface for Robotic Grasping”, The IEEE/RSJ International Conference on Intelligent Robots and Systems, October 11-15, 2009, St. Louis, USA, pp. 1452-1459.</li>
 
 <li>[2] T. Kapuscinski and M. Wysocki, “Hand Gesture Recognition for Man-Machine interaction”, Second Workshop on Robot Motion and Control, October 18-20, 2001, pp. 91-96.</li>
@@ -113,7 +113,7 @@ with.</li>
 
 <li>[20] J. B. Kim, K. H. Park, W. C. Bang, and Z. Z. Bien, “Continuous Gesture Recognition System for Korean Sign Language based on Fuzzy Logic and Hidden Markov Model”, IEEE, 2002, pp. 1574-1579.</li>
 
-</ul>
+</ol>
 
 Contact us at :
 Email - er.anuragprasad@gmail.com
