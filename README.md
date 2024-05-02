@@ -15,8 +15,20 @@ If any error happens let us know,then we will feel happy to help you.
   <li>3. Stereo cameras</li>
   <li>4. Controller-based gestures</li>
   <li>5. Single camera</li>
-  In our project we have implemented sign language recognition on a single camera.
 </ul>
 
+<p>In our project we have implemented sign language recognition on a single camera.</p>
+
+<ul>Broadly speaking there are 2 different approaches in gesture recognition:
+  <li><ul>3D model-based algorithms:
+      <li>Volumetric model</li>
+      <li>Skeletal models</li></ul>
+  </li>
+    <li><ul>Appearance-based models:
+      <li>Deformable 2D templates.</li>
+      <li>Image sequences</li></ul>
+  </li>
+</ul>
+  
 Contact us at :
 Email - er.anuragprasad@gmail.com
